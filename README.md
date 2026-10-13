@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno Henrique 👋
 
-### QA Engineer | Software Quality | Test Automation
+### QA Engineer | Test Automation | API & E2E Testing | Cypress · Robot Framework · CI/CD
 
 Profissional de QA com foco em **qualidade de software, testes de API, testes end-to-end e automação de testes**.
 
