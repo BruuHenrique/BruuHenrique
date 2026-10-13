@@ -34,12 +34,6 @@ Automação de testes de API com Postman/Newman, incluindo validações de statu
 
 Projeto de automação com Cypress contendo testes Web E2E e validações de API em um fluxo de e-commerce.
 
-## 📚 Estudos
-
-### [Cypress Básico V2](https://github.com/BruuHenrique/cypress-basico-v2)
-
-Repositório de estudos utilizado para praticar fundamentos de Cypress e conceitos de automação de testes.
-
 ---
 
 ### English summary
